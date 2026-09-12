@@ -2,7 +2,7 @@
 
 # 张益新 · Yixin Zhang
 
-**Google GDE（Machine Learning）** · 中坚科技（002779.SZ）技术预研负责人
+**Google GDE（Machine Learning）** · 桦之坚（002779.SZ）技术预研负责人
 
 [![Google Developer](https://img.shields.io/badge/g.dev-updatezhang-4285F4?style=flat-square&logo=google)](https://g.dev/updatezhang)
 [![GitHub](https://img.shields.io/badge/GitHub-yixinzhangagent-181717?style=flat-square&logo=github)](https://github.com/yixinzhangagent)
@@ -17,7 +17,7 @@
 
 ## 关于
 
-现任 **桦之坚 / 中坚科技（002779.SZ）技术预研负责人**，负责新业务拓展；方向覆盖具身智能、机器人系统、Agent 与物理空间智能化。
+现任 **桦之坚（002779.SZ）技术预研负责人**，负责新业务拓展；方向覆盖具身智能、机器人系统、Agent 与物理空间智能化。
 
 - **Google GDE** — Machine Learning Developer Expert
 - **Xbot Park（宁波）** 学员 · 学号 `666`
@@ -30,7 +30,7 @@
 
 | 领域 | 说明 |
 | --- | --- |
-| 技术预研 | 中坚科技新业务拓展 · 具身 / VLN / Agent · 机器人「灵魂」与现场工程 |
+| 技术预研 | 桦之坚新业务拓展 · 具身 / VLN / Agent · 机器人「灵魂」与现场工程 |
 | 开源工程 | 组织 [topsun-bot](https://github.com/topsun-bot)（中坚智能）· DimOS / ROS 2 / 感知与部署 |
 | 学术与竞赛 | CureAgent · CURE-Bench · 自进化智能体相关实践 |
 
